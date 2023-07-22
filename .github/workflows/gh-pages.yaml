@@ -30,6 +30,7 @@ jobs:
         run: |
           cd react
           npm install
+          rm -rf dist
           npm run build
           git add dist -f
           git commit -m "react build files - github action"
