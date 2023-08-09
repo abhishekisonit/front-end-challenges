@@ -21,3 +21,16 @@ It is an open-source web analytics tool developed by Microsoft. It is designed t
 #### What is Bugfender?
 
 It is a remote logging and debugging tool designed to help developers track, monitor, and troubleshoot issues in their mobile and web applications. It provides a centralized platform for collecting and analyzing logs from various devices and environments, allowing developers to gain insights into application behavior and diagnose problems more effectively.
+
+###### Features:
+
+- Remote Logging
+- Real-Time Log Streaming
+- Cross Platform Support
+- Device and User Segmentation
+- Log Filtering and Searching
+- Session Tracking
+- Custom Log Fields
+- Privacy and Security
+- Issue Reproduction
+- Integration with popular development and collaboration tools
