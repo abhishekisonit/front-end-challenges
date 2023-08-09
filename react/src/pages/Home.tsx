@@ -15,6 +15,7 @@ const Home = () => {
       </h1>
       <h3>For practice and interview</h3>
       TODO: //link your own background picture
+      <img className={styles.hero} loading="lazy" alt="brand" src=""></img>
       <div className={styles.route}>
         <a href="https://github.com/abhishekisonit/front-end-challenges/native">
           View Challenges in
